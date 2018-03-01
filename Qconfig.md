@@ -140,7 +140,7 @@ public class YourClass{
 
 1）map型listener
 
-
+ 
 ````
 MapConfig config = MapConfig.get("config.properties");
 //这个map是动态变化的
